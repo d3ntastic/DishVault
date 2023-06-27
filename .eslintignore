@@ -1,0 +1,8 @@
+!.lintstagedrc.js
+!.stylelintrc.js
+!.prettierrc.js
+generated
+public/sw*.js
+public/workbox*.js
+coverage
+!.storybook

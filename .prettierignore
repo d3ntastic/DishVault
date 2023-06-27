@@ -1,0 +1,6 @@
+*.scss
+generated
+*.yml
+public
+.next
+coverage
